@@ -1,0 +1,1 @@
+web -jar target/gradle-wrapper.jar
